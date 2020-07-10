@@ -54,19 +54,18 @@ body, * {
   justify-content: center;
   align-items: center;
   width: 100%;
-  margin-top: 1rem;
 }
 
 .balance h2 {
   font-family: "Baloo Da 2", serif;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-weight: 300;
   text-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
 }
 
 .balance h3 {
   font-family: "Baloo Da 2", serif;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 400;
   text-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
 }
@@ -176,6 +175,7 @@ input[type="number"]::-webkit-inner-spin-button {
 
 .transactions {
   margin-top: 3rem;
+  padding: 1rem;
 }
 
 .transactions h2 {
@@ -299,7 +299,7 @@ input[type="number"]::-webkit-inner-spin-button {
 
 @media (min-width: 1200px) {
   .container {
-    height: 100vh;
+    height: 100%;
   }
   .app-wrapper {
     display: grid;
