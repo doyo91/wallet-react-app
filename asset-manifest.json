@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/budget-react-app/static/css/main.08e117aa.chunk.css",
-    "main.js": "/budget-react-app/static/js/main.85e6574b.chunk.js",
-    "main.js.map": "/budget-react-app/static/js/main.85e6574b.chunk.js.map",
-    "runtime-main.js": "/budget-react-app/static/js/runtime-main.e2563236.js",
-    "runtime-main.js.map": "/budget-react-app/static/js/runtime-main.e2563236.js.map",
-    "static/js/2.4db3e869.chunk.js": "/budget-react-app/static/js/2.4db3e869.chunk.js",
-    "static/js/2.4db3e869.chunk.js.map": "/budget-react-app/static/js/2.4db3e869.chunk.js.map",
-    "index.html": "/budget-react-app/index.html",
-    "precache-manifest.5c8c9de69119344e2ea924e9ca15dd75.js": "/budget-react-app/precache-manifest.5c8c9de69119344e2ea924e9ca15dd75.js",
-    "service-worker.js": "/budget-react-app/service-worker.js",
-    "static/css/main.08e117aa.chunk.css.map": "/budget-react-app/static/css/main.08e117aa.chunk.css.map",
-    "static/js/2.4db3e869.chunk.js.LICENSE.txt": "/budget-react-app/static/js/2.4db3e869.chunk.js.LICENSE.txt"
+    "main.css": "/wallet-react-app/static/css/main.08e117aa.chunk.css",
+    "main.js": "/wallet-react-app/static/js/main.d1d5eb85.chunk.js",
+    "main.js.map": "/wallet-react-app/static/js/main.d1d5eb85.chunk.js.map",
+    "runtime-main.js": "/wallet-react-app/static/js/runtime-main.3891c21a.js",
+    "runtime-main.js.map": "/wallet-react-app/static/js/runtime-main.3891c21a.js.map",
+    "static/js/2.72703c0f.chunk.js": "/wallet-react-app/static/js/2.72703c0f.chunk.js",
+    "static/js/2.72703c0f.chunk.js.map": "/wallet-react-app/static/js/2.72703c0f.chunk.js.map",
+    "index.html": "/wallet-react-app/index.html",
+    "precache-manifest.47096fe7b69042dcc24562f5a41716f3.js": "/wallet-react-app/precache-manifest.47096fe7b69042dcc24562f5a41716f3.js",
+    "service-worker.js": "/wallet-react-app/service-worker.js",
+    "static/css/main.08e117aa.chunk.css.map": "/wallet-react-app/static/css/main.08e117aa.chunk.css.map",
+    "static/js/2.72703c0f.chunk.js.LICENSE.txt": "/wallet-react-app/static/js/2.72703c0f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2563236.js",
-    "static/js/2.4db3e869.chunk.js",
+    "static/js/runtime-main.3891c21a.js",
+    "static/js/2.72703c0f.chunk.js",
     "static/css/main.08e117aa.chunk.css",
-    "static/js/main.85e6574b.chunk.js"
+    "static/js/main.d1d5eb85.chunk.js"
   ]
 }
