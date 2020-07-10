@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wallet-react-app/static/css/main.08e117aa.chunk.css",
+    "main.css": "/wallet-react-app/static/css/main.5796cf8d.chunk.css",
     "main.js": "/wallet-react-app/static/js/main.d1d5eb85.chunk.js",
     "main.js.map": "/wallet-react-app/static/js/main.d1d5eb85.chunk.js.map",
     "runtime-main.js": "/wallet-react-app/static/js/runtime-main.3891c21a.js",
@@ -8,15 +8,15 @@
     "static/js/2.72703c0f.chunk.js": "/wallet-react-app/static/js/2.72703c0f.chunk.js",
     "static/js/2.72703c0f.chunk.js.map": "/wallet-react-app/static/js/2.72703c0f.chunk.js.map",
     "index.html": "/wallet-react-app/index.html",
-    "precache-manifest.47096fe7b69042dcc24562f5a41716f3.js": "/wallet-react-app/precache-manifest.47096fe7b69042dcc24562f5a41716f3.js",
+    "precache-manifest.8c8945d834caae60778c52668bfb350f.js": "/wallet-react-app/precache-manifest.8c8945d834caae60778c52668bfb350f.js",
     "service-worker.js": "/wallet-react-app/service-worker.js",
-    "static/css/main.08e117aa.chunk.css.map": "/wallet-react-app/static/css/main.08e117aa.chunk.css.map",
+    "static/css/main.5796cf8d.chunk.css.map": "/wallet-react-app/static/css/main.5796cf8d.chunk.css.map",
     "static/js/2.72703c0f.chunk.js.LICENSE.txt": "/wallet-react-app/static/js/2.72703c0f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3891c21a.js",
     "static/js/2.72703c0f.chunk.js",
-    "static/css/main.08e117aa.chunk.css",
+    "static/css/main.5796cf8d.chunk.css",
     "static/js/main.d1d5eb85.chunk.js"
   ]
 }

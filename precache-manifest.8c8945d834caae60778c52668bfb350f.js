@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa4ce1a2c2ef74c89bbfc40ce3bc49cd",
+    "revision": "9ebf2883d8789112dfcd6ef2d415c31d",
     "url": "/wallet-react-app/index.html"
   },
   {
-    "revision": "02737597a32ab099ecf8",
-    "url": "/wallet-react-app/static/css/main.08e117aa.chunk.css"
+    "revision": "492c44c9eca5bcac0ebd",
+    "url": "/wallet-react-app/static/css/main.5796cf8d.chunk.css"
   },
   {
     "revision": "0a6d88ca029f809a2842",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wallet-react-app/static/js/2.72703c0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02737597a32ab099ecf8",
+    "revision": "492c44c9eca5bcac0ebd",
     "url": "/wallet-react-app/static/js/main.d1d5eb85.chunk.js"
   },
   {
